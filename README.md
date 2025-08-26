@@ -78,4 +78,11 @@ Me chamo Nelson Ivan Mombi, tenho 21 anos e sou natural de Maputo. Concluí o en
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+  <img 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api?username=NelsonIvanMombi&show_icons=true&theme=tokyonight" 
+/>
+
+
 </p>
