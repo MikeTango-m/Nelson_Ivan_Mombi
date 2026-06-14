@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Nelson Ivan Mombi, tenho 21 anos e sou natural de Maputo. Concluí o ensino médio no Colegio adventista da Liberdade, com o curso técnico em informática. Atualmente, estou cursando eng.informática no ISCTEM. Sou apaixonadO por tecnologia e sempre estou disposto a aprender o maximo que poder, estou a aprender a desenvolver projetos web, através do Instagram desenvolvo as minhas habilidades em Markting.
+Me chamo Nelson Ivan Mombi, tenho 22 anos e sou natural de Maputo. Concluí o ensino médio no Colegio adventista da Liberdade, com o curso técnico em informática. Atualmente, estou cursando eng.informática no ISCTEM. Sou apaixonadO por tecnologia e sempre estou disposto a aprender o maximo que poder, estou a aprender a desenvolver projetos web.
 
 ---
 
